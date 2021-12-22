@@ -1,5 +1,9 @@
 # Deploy-VM-in-AWS-using-Terraform-workflow
-Fundamental Terraform hands on to deploy a VM in AWS console via CLI commands like init, plan, apply, and lastly, destroy
+Fundamental Terraform hands on to deploy a VM in AWS console via CLI commands like init, plan, apply, and lastly, destroy.
+
+Pre-requisites: 
+1. Install terraform in a server named "terraform controller"
+2. Keep a file that contains resource info like ami id, subnetid
 
 We will be following the Terraform workflow — Write > Plan > Apply — to deploy a virtual machine (VM) in AWS. After a successful deployment, we will then clean up our infrastructure and destroy the resource we created.
 
