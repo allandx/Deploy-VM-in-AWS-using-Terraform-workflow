@@ -1,4 +1,4 @@
-# Deploy-VM-in-AWS-using-Terraform-workflow
+# Deploy-VM-in-AWS-using-Terraform-wkflow
 Fundamental Terraform hands on to deploy a VM in AWS console via CLI commands like init, plan, apply, and lastly, destroy.
 
 Pre-requisites: 
