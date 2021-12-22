@@ -3,7 +3,8 @@ Fundamental Terraform hands on to deploy a VM in AWS console via CLI commands li
 
 Pre-requisites: 
 1. Install terraform in a server named "terraform controller"
-2. Keep a file that contains resource info like ami id, subnetid
+2. Keep a file that contains resource info like ami id, subnetid and etc
+3. Need configure AWS credentials in the "terraform controller" server to link terraform and AWS resources
 
 We will be following the Terraform workflow — Write > Plan > Apply — to deploy a virtual machine (VM) in AWS. After a successful deployment, we will then clean up our infrastructure and destroy the resource we created.
 
