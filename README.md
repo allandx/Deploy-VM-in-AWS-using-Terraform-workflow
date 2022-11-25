@@ -1,7 +1,8 @@
-| Client        | Project Name. |
-| ------------- | ------------- |
-| SMU           | DMS           |
-|  |   |
+This document shows \
+
+1. Install terraform and deoloy an ec2 on AWS
+
+2. the usage of using parent and child modules with .tfvars to deploy infrastructure
 
 
 # Deploy-VM-in-AWS-using-Terraform-wkflow
