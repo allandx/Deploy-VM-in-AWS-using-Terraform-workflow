@@ -1,4 +1,4 @@
-This document shows \
+This document shows:
 
 1. Install terraform and deoloy an ec2 on AWS
 
