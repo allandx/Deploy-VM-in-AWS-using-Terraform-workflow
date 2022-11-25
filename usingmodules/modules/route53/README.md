@@ -17,7 +17,7 @@ module "route53" {
 
 ```
 
-To deploy resources,execute 
+To deploy resources,go to root module directory and execute 
 ```terraform apply -var-file=”staging.tfvars”```
 
 ## Modules
